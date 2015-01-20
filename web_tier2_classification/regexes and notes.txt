@@ -1,0 +1,41 @@
+Tier 1 classifications
+Benefits: "/benefits_."
+Consumer: "/consumer_."
+Work: "/work_|tribunal"
+Money (debt): "/debt_|insurance_|pensions_|savings_|banking_"
+Money (fin): "/debt_|insurance_|pensions_|savings_|banking_"
+Discrimination: '/discrimination_.'
+Education: "/education_."
+Relationships: "/relationship_."
+Healthcare: "/healthcare_."
+Housing: "/housing_."
+Law: "/law_."
+Admin: "about_this_site|about_us|contact_us|support_us|search.htm|england.htm|wales.htm|help.htm|accessibility.htm|index/index"
+Tax: "/tax_."
+Life: "/life/"
+Family: "/family_parent/"
+
+Tier 2 code classifications (Benefits only)
+25:  "reform"
+24:  "benefit_cap""
+19:  "employment_and_support_allowance"
+21:  "benefits_personal_independence_payment"
+100: "benefits_for_people_who_are_sick_or_disabled.htm"
+21:  "sick_or_disabled"
+13:  "older_people"
+9:   "low_income" & "council_tax"
+7:   "low_income" & "housing_benefit"
+2:   "low_income""
+10:  "working_tax_credit"
+11:  "in_work_or_looking_for_work"
+20:  "universal_credit"
+
+Missing relevant Benefits tier 2 classifications:
+Benefits for immigrants ("coming_from_abroad") - lots of page views for this item
+"children_and_young_people"
+"bereavement"
+"armed_forces_and_veterans"
+"coming_from_abroad"
+
+
+
