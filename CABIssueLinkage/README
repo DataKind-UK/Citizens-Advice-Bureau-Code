@@ -1,0 +1,8 @@
+Setup
+=====
+1. ensure that ssh tunnel from localhost to ES server is up. If connecting directly, edit CABIssueLinkage.loaddata function to use the correct URL
+2. create a new directory, download all files
+3. run "virtualenv" in the directory
+4. run "source bin/activate", then run "pip install -r requirements.txt" which should install all dependencies
+5. run ipython notebook server. Open "CAB Issue Linkage.ipynb"
+
